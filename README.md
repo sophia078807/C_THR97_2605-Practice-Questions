@@ -1,4 +1,4 @@
-# C_THR97_2605-Practice-Questions
+# C_THR97_2605
 An end-to-end exam preparation guide and verified practice question bank for the SAP C_THR97_2605 certification. It covers SAP SuccessFactors Recruiting management, candidate relationship management, applicant tracking, interview scheduling, system configurations, and final assessment readiness to help you pass on your first attempt.
 [![c-thr97-2605](https://img.shields.io/badge/c--thr97--2605-ddf4ff?style=flat-square)](https://github.com/topics/c-thr97-2605)
 [![c-thr97-2605-exam](https://img.shields.io/badge/c--thr97--2605--exam-ddf4ff?style=flat-square)](https://github.com/topics/c-thr97-2605-exam)
